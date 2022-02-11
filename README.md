@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science at Clarusway**
 
-- 📫 How to reach me **linkedin**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/burhanettin-usta-25b68922b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burhanettin-usta-25b68922b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17289164/burhanettin-usta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17289164/burhanettin-usta" height="30" width="40" /></a>

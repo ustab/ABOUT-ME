@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burhanettin Usta</h1>
-<h3 align="center">A passionate data scientist from Nigeria</h3>
+<h3 align="center">A passionate Data Scientist from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ustab&label=Profile%20views&color=0e75b6&style=flat" alt="ustab" /> </p>
 

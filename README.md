@@ -1,5 +1,5 @@
-<h1 align="center"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQETXKqF7SUPeg/profile-displayphoto-shrink_200_200/0/1643288748934?e=1652313600&v=beta&t=6Bdgp1HkZQCFkhOXu8-rHkPhjpSfFBhL0XVPm21jiaw", width="60px">    👋, I'm Burhanettin Usta</h1>
-<h3 align="center">A Passionate Data Scientist from Nigeria</h3>
+<h1 align="center" <img align="center" src="https://media-exp1.licdn.com/dms/image/C5603AQETXKqF7SUPeg/profile-displayphoto-shrink_200_200/0/1643288748934?e=1652313600&v=beta&t=6Bdgp1HkZQCFkhOXu8-rHkPhjpSfFBhL0XVPm21jiaw" height="30" width="40">     👋, I'm Burhanettin Usta</h1>
+<h3 align="center" > A Passionate Data Scientist from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ustab&label=Profile%20views&color=0e75b6&style=flat" alt="ustab" /> </p>
 

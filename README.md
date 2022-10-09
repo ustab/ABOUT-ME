@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ustab&label=Profile%20views&color=0e75b6&style=flat" alt="ustab" /> </p>
 
-- 🔭 I’m currently working on **IT Training**
-
-- 🌱 I’m currently learning **Data Science at Clarusway**
+- 🔭 I am currently studying machine learning, deep learning, and natural language processing. I love reading books, doing sports, learning new things every day, seeing natural beauties, and helping people.🌱 
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
@@ -21,5 +19,6 @@
 
 <h4>Summary</h4>
 <p>I have just graduated from the EU-based Clarusway educational institution, which is a pioneer in the IT sector, as Data Analyst. The skills I gained during the course are Data Analysis, Data Visualization, Statistical Analysis, Tableau, Python, SQL, Git/GitHub, HTML, CSS, Agile Methodology, Teamwork, Collaboration, Problem-solving, and Critical Thinking. I am a data scientist with a vast array knowledge in many different languages, responsive frameworks,databases and best code practices. My objective is simply to be the best data scientist to contribute to the technology industry all that I can do. I am dedicated to perfecting my craft by learning from more experienced persons, remaining humble and continuously making strides to learn all that I can about development. 
+
 While a student Erciyes University Medical faculty, a resident of anesthesiology Ankara University, Nile University-Nigeria Nizamiye Teaching Hospital I studied Medicine, And served as a medical doctor / an academician for 32 years, and now I believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a data scientist.</p>
 

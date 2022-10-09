@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ustab&label=Profile%20views&color=0e75b6&style=flat" alt="ustab" /> </p>
 
-- 🔭 I am currently studying machine learning, deep learning, and natural language processing. I love reading books, doing sports, learning new things every day, seeing natural beauties, and helping people.🌱 
+- 🔭 I am currently studying machine learning, deep learning, and natural language processing. I love reading, learning new things every, helping patients, and social activities as a voluntary of Hizmet Movement.🌱 
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
